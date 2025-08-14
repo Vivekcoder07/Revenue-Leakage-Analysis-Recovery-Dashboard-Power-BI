@@ -82,7 +82,7 @@ This dashboard:
 ---
 
 ## 📷 Dashboard Preview
-![Revenue Leakage Dashboard](dashboard.png)
+![Revenue Leakage Dashboard]((https://github.com/Vivekcoder07/Revenue-Leakage-Analysis-Recovery-Dashboard-Power-BI/blob/main/Revenue-Leakage-Analysis-Recovery-Dashboard.png))
 
 ---
 
@@ -102,19 +102,39 @@ By implementing this dashboard:
 
 ---
 
+##🧠 Insights & Value (typical outcomes)
+
+-A small set of clients often drives a large share of leakage → prioritize top offenders first.
+-Under-billed hours and unpaid invoices are the most common drivers.
+-Trend view reveals spikes near renewals/billing cycle changes → add pre-invoice checks.
+
+---
+
+##🛠️ Future Enhancements
+
+-Live refresh from a database/warehouse (scheduled refresh)
+-Alerts (email/Teams) when leakage crosses thresholds
+-Root-cause drilldowns (roles, projects, geos)
+-Predictive risk scoring (which contracts will leak next)
+-Approval workflow to auto-create credit/debit adjustments
+
+---
+
+
 ## 🔗 Dataset Access
 *(Replace with your dataset link if public)*  
-[Sample Dataset Download](dataset.csv)
+[Sample Dataset Download](https://github.com/Vivekcoder07/Revenue-Leakage-Analysis-Recovery-Dashboard-Power-BI/blob/main/data_generator.py)
 
 ---
 
 ## 👤 Author
 **Vivek Patel**  
 Data Analyst | Power BI Developer | Data Storyteller  
-[LinkedIn Profile](https://www.linkedin.com/) | [GitHub Profile](https://github.com/)
+[LinkedIn Profile](www.linkedin.com/in/vivekpatel07) | [GitHub Profile]([https://github.com/Vivekcoder07])
 
 ---
 
 ## 📄 License
 This project is for educational and portfolio purposes only.  
 All sample data is anonymized and does not represent actual client information.
+
